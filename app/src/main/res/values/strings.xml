@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Fragmentexample</string>
+    <string name="title1">Cry for a Shadow</string>
+    <string name="article1"> HARSHIT KUMAR JAIN 2K18CSUN01063
+        Many a Beatle fanatic started down the outtake
+        road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs.</string>
+    <string name="title2">My Bonnie - Ain’t She Sweet</string>
+    <string name="article2">At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal).</string>
+
+    <!-- TODO: Remove placeholder text from fragment creation. -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Text for the fragment. -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="question_article">LIKE THE ARTICLE?</string>
+
+    <!-- Text for the button in FragmentExample2. -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Text for the exception message in FragmentCommunicate. -->
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <!-- Message for the main activity. -->
+    <string name="activity_text">All the functionality for this app is in
+        the app widget.</string>
+
+    <!-- Heading for the app widget ID panel. -->
+    <string name="widget_id_label">Widget ID</string>
+
+    <!-- Heading for the updated panel. -->
+    <string name="widget_update_label">Last updated</string>
+
+    <!-- Button label for the update button. -->
+    <string name="widget_button_update">Update now</string>
+
+    <!-- Format string for the date & count text view -->
+    <string name="date_count_format">%1$d @%2$s</string>
+    <string name="harshit_kumar_jain_2k18csun01063">Harshit Kumar Jain 2K18CSUN01063</string>
+    <string name="label_azimuth_string">Azmiuth:</string>
+    <string name="label_pitch_string">Pitch:</string>
+    <string name="label_roll_string">Roll:</string>
+    <string name="value_format">%1$.2f</string>
+</resources>
